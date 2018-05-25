@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entries xmlns="http://ru.sergeytoropov.magnit/xml/1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://ru.sergeytoropov.magnit/xml/1 http://ru.sergeytoropov.magnit/xml/1.xsd">
+    <entry>
+        <field>11</field>
+    </entry>
+    <entry>
+        <field>21</field>
+    </entry>
+    <entry>
+        <field>31</field>
+    </entry>
+</entries>
